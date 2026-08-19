@@ -114,6 +114,8 @@ Clarity-Theme/
 ├── style.rics   # Theme source (RICS)
 ├── metadata.json                # Theme metadata (marketplace)
 ├── settings.json                # User-configurable settings
+├── .gitignore
+├── .gitattributes
 ├── README.md
 └── images/
     ├── 1.webp … 2.webp          # Screenshots (animated webp)
