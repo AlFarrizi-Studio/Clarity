@@ -73,7 +73,7 @@
 3. The theme is applied automatically.
 
 **Manual (Custom Style)**
-1. Copy the contents of `Clarity_Better_Lyrics.scss` (compile to CSS if needed).
+1. Copy the contents of `style.rics` (compile to CSS if needed).
 2. Better Lyrics → Settings → **Custom CSS** → paste.
 3. Hard refresh (`Ctrl + Shift + R`).
 
