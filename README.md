@@ -74,7 +74,7 @@
 
 **Manual (Custom Style)**
 1. Copy the contents of `style.rics` (compile to CSS if needed).
-2. Better Lyrics → Settings → **Custom CSS** → paste.
+2. Better Lyrics → Theme → **Custom Style** → paste.
 3. Hard refresh (`Ctrl + Shift + R`).
 
 ---
