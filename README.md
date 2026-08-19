@@ -1,1 +1,1 @@
-# Clarity-Theme
+# Clarity
