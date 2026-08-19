@@ -15,7 +15,7 @@
         ],
         "attribute": "placement",
         "attrType": "rics",
-        "default": "left"
+        "default": 0
     },
     "album-cover": {
         "pos": 2,
@@ -43,14 +43,14 @@
         "attrType": "rics",
         "default": "1.6s"
     },
-    "cover-vinyl-animation-speed": {
+    "center-animation-speed": {
         "pos": 6,
         "type": "textfield",
-        "label": "Cover/Vinyl animation speed",
-        "attribute": "cover-vinyl-animation-speed",
+        "label": "Center layout animation speed",
+        "attribute": "center-animation-speed",
         "attrType": "rics",
-        "default": "0.7s"
-    },
+        "default": "1.2s"
+    }
     "player-bar": {
         "pos": 7,
         "type": "heading",
