@@ -13,6 +13,9 @@
 [![Built with](https://img.shields.io/badge/built%20with-RICS-cd679b?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge)]()
 
+<img src="https://raw.githubusercontent.com/AlFarrizi-Studio/Clarity-Theme/refs/heads/main/images/1.webp">
+<img src="https://raw.githubusercontent.com/AlFarrizi-Studio/Clarity-Theme/refs/heads/main/images/2.webp">
+
 [Features](#-features) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Theme Settings](#-theme-settings) • [Credits](#-credits)
 
 </div>
@@ -55,10 +58,10 @@
 
 ## 📸 Screenshots
 
-| | |
-|:---:|:---:|
-| <img src="images/16b9_1.png" width="420" alt="Player page"> | <img src="images/16b9_2.png" width="420" alt="Fullscreen"> |
-| <img src="images/16b9_3.png" width="420" alt="Search glass"> | <img src="images/16b9_4.png" width="420" alt="Sidebar glass"> |
+<img src="https://raw.githubusercontent.com/AlFarrizi-Studio/Clarity-Theme/refs/heads/main/images/3.png">
+<img src="https://raw.githubusercontent.com/AlFarrizi-Studio/Clarity-Theme/refs/heads/main/images/4.png">
+<img src="https://raw.githubusercontent.com/AlFarrizi-Studio/Clarity-Theme/refs/heads/main/images/5.png">
+<img src="https://raw.githubusercontent.com/AlFarrizi-Studio/Clarity-Theme/refs/heads/main/images/6.png">
 
 ---
 
@@ -108,15 +111,16 @@
 
 ```
 Clarity-Theme/
-├── Clarity_Better_Lyrics.scss   # Theme source (SCSS)
+├── style.rics   # Theme source (RICS)
 ├── metadata.json                # Theme metadata (marketplace)
 ├── settings.json                # User-configurable settings
 ├── README.md
 └── images/
-    ├── 16b9_1.png … 16b9_6.png      # Screenshots
+    ├── 1.webp … 2.webp          # Screenshots (animated webp)
+    ├── 3.png … 6.png            # Screenshots (png)
     └── rics elements/
-        ├── YouTube Music.svg        # Custom logo
-        └── Vinly Disc.png           # Vinyl disc asset
+        ├── YouTube Music.svg    # Custom logo
+        └── Vinly Disc.png       # Vinyl disc asset
 ```
 
 ---
