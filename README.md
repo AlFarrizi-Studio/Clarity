@@ -1,6 +1,8 @@
 <div align="center">
 
-# Clarity
+<img src="https://raw.githubusercontent.com/AlFarrizi-Studio/Clarity-Theme/refs/heads/main/images/rics%20elements/YouTube%20Music.svg" width="300" alt="Clarity for YouTube Music" />
+
+# Clarity — Better Lyrics Theme
 
 **A glassmorphism theme for Better Lyrics on YouTube Music**
 
